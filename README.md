@@ -1,6 +1,6 @@
 #  Vinayak Tiwari — Developer Portfolio
 
- Live Portfolio: https://vinayak-portfolio-main.netlify.app/
+ Live Portfolio: https://vinayakkk-portfolio.netlify.app/
 
 ---
 
